@@ -1,4 +1,4 @@
-//feito por uyanne martins motta
+//feito por Suyanne martins motta
 
 package boletim;
 
